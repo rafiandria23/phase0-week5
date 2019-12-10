@@ -1,5 +1,5 @@
 /**
- * HACKTIV8 Phase 0 - Logic Challenge - Most Frequent Largest Numbers
+ * HACKTIV8 Phase 0 - Logic Challenge - Password Generator
  * Code Skeleton made by HACKTIV8 Team, solved by Adam Rafiandri
 */
 
